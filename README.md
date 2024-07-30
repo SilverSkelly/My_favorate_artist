@@ -1,6 +1,6 @@
 <h2>Toby Fox<h2>
 
-![image](https://imgs.search.brave.com/DZOpWLbaBG6GswTdHwQsdwHbtGZqv5AK3H8bzYsHiZE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sYXN0/Zm0uZnJlZXRscy5m/YXN0bHkubmV0L2kv/dS9hdmF0YXIxNzBz/L2ZhNDJiZjE2YWNm/ZmVlZTBlMDRhMGFk/Yjg3ZWNkMzU2.jpeg)
+<image src="https://imgs.search.brave.com/DZOpWLbaBG6GswTdHwQsdwHbtGZqv5AK3H8bzYsHiZE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sYXN0/Zm0uZnJlZXRscy5m/YXN0bHkubmV0L2kv/dS9hdmF0YXIxNzBz/L2ZhNDJiZjE2YWNm/ZmVlZTBlMDRhMGFk/Yjg3ZWNkMzU2.jpeg">
 
 <br>
 
