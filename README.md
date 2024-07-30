@@ -5,7 +5,7 @@
 <br>
 
 <ul>
-<li>Creator and composer of undertale and deltarune
+<li>Creator and composer of undertale and deltarune</li>
 </ul>
 
 <h2>Eiichiro Oda<h2>
@@ -15,7 +15,7 @@
 <br>
 
 <ul>
-    <li> author and Mangaka of One Piece 
+    <li> author and Mangaka of One Piece </li>
 </ul>  
 
 <h2>Gore Verbinski<h2>
@@ -25,7 +25,7 @@
 <br>
 
 <ul>
-    <li> co-writer and director of rango, pirates of the caribbean, the ring, and others.
+    <li> co-writer and director of rango, pirates of the caribbean, the ring, and others.</li>
 </ul>
 
 <h2>Dan Houser <h2>
@@ -35,5 +35,5 @@
 <br>
 
 <ul>
-    <li>co-founder of Rockstar Games and lead writer and creative directive until 2020.
+    <li>co-founder of Rockstar Games and lead writer and creative directive until 2020.</li>
 </ul>
